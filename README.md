@@ -12,7 +12,9 @@
 
 📚 I’m currently learning Flutter, Go, Rust... 
 
-🌍 [My portfolio](https://yisus82.github.io/)
+🌍 [My portfolio](https://yisus82.github.io)
+
+🏆 [Git Awards](http://git-awards.com/users/yisus82)
 
 [<img src='https://img.shields.io/badge/-yisus82-black?&style=flat-square&logo=Github&logoColor=white' alt='Github'>](https://github.com/yisus82?tab=repositories)
 [<img src='https://img.shields.io/badge/-jesusperezrocafernandez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesusperezrocafernandez/' alt='LinkedIn'>](https://www.linkedin.com/in/jesusperezrocafernandez/)    
