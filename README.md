@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yisus82&show_icons=true&locale=en&theme=dracula" alt="yisus82" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yisus82&theme=dracula" alt="yisus82" /></p>
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
